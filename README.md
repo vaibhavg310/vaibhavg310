@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavg310&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavg310&layout=donut&theme=tokyonight)](https://github.com/vaibhavg310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavg310&layout=donut&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-stats)
 
 [![Vaibhav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaibhavg310&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
