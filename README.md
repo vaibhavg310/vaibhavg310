@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavg310&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavg310&hide_progress=true&theme=tokyonight)](https://github.com/vaibhag310/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavg310&layout=donut&theme=tokyonight)](https://github.com/vaibhavg310/github-readme-stats)
